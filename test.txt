@@ -1,3 +1,4 @@
 this is first line
+this is one half change
 this is second line
 this is third change
